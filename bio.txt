@@ -1,2 +1,9 @@
 Nombre: Alvaro B
 Trabajo en TyD en Indra
+
+Hoy es un gran día para aprender git
+
+
+
+
+Fin de la cita
