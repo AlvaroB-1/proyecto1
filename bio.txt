@@ -1,3 +1,2 @@
-Nombre: Alvaro
-Edad: 26
+Nombre: Alvaro B
 Trabajo en TyD en Indra
