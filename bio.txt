@@ -6,4 +6,4 @@ Hoy es un gran día para aprender git
 
 Adding a newwwww linweeee
 
-Fin de la cita
+Fin de la citagit status
